@@ -22,4 +22,4 @@ function insertion_sort(dataArray){
     return dataArray
 }
 
-console.log(insertion_sort([5,8,9,6,6,4,3]))
+insertion_sort([5,8,9,6,6,4,3])
